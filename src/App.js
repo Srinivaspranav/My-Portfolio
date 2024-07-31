@@ -9,7 +9,7 @@ import Contact from "./components/contact/Contact";
 import Footer from './components/footer/Footer';
 import Qualification from './components/qualifications/Qualification';
 
-
+//Routes//
 const App =() =>{
   return(
     <>
