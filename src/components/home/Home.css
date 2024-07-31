@@ -187,7 +187,7 @@
     .home__content{
         grid-template-columns: max-content;
         padding-top: 2.5rem;
-        margin-bottom: 40px;
+        margin-bottom: 80px;
     }
 
     .home__social{
@@ -195,6 +195,7 @@
         justify-content: space-around;
         grid-template-columns: max-content;
         row-gap: 1rem;
+        margin-bottom: 20px;
     }
     
     .home__img{
