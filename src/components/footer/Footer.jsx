@@ -19,6 +19,10 @@ const Footer = () => {
             <li>
                 <a href="#qualifications" className="footer__link">Qualifications</a>
             </li>
+
+            <li>
+                <a href="#qualifications" className="footer__link">Contact</a>
+            </li>
         </u1>
 
         <div className="footer__social">
