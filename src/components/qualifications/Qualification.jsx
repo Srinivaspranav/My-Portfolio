@@ -48,22 +48,12 @@ const Qualification = () => {
                         <div>
                         <span className="qualification__rounder">
                         </span>
-                        <span className="qualification__line">
-
-                        </span>
+                        <span className="qualification__line">CGPA : 7.77</span>
                     </div>
                     </div>
 
                     <div className="qualification__data">
                         <div>
-                        <div>
-                        <span className="qualification__rounder">
-                        </span>
-                        <span className="qualification__line">
-
-                        </span>
-                    </div>
-                        </div>
                         <h3 className="qualification__title">Borad Of Intermediate </h3>
                         <span className="qualification__subtitle">Sri Viswa Junior College</span>
                         <div className="qualification__calender">
@@ -71,22 +61,29 @@ const Qualification = () => {
                             2019 - 2021
                         </div>
                      
-                    </div>
-                    <div className="qualification__data">
-                        <div>
                         <div>
                         <span className="qualification__rounder">
                         </span>
                         <span className="qualification__line">
-
+                        Percentage:93.2%
                         </span>
                     </div>
                         </div>
+                      
+                    </div>
+                    <div className="qualification__data">
+                        <div>
                         <h3 className="qualification__title">10th Board SSC </h3>
                         <span className="qualification__subtitle">Sri Chaitanya Techno School</span>
                         <div className="qualification__calender">
                             <i className="uil uil-calender-alt"></i>
                              2018 - 2019
+                        </div>
+                        <div>
+                        <span className="qualification__rounder">
+                        </span>
+                        <span className="qualification__line">GPA: 9.7 </span>
+                    </div>
                         </div>
                      
                     </div>
@@ -97,23 +94,30 @@ const Qualification = () => {
                     "qualification__content qualification__content-active" : "qualification__content"
                 }>
                     <div className="qualification__data">
-                        <h3 className="qualification__title">Computer Science & Systems Engineering</h3>
-                        <span className="qualification__subtitle">Andhra University College of engineering</span>
+                        <h3 className="qualification__title">
+                        Artificial Intelligence and Machine Learning(Summer Internship and Training)</h3>
+                        <span className="qualification__subtitle">Remarkskill</span>
                         <div className="qualification__calender">
                             <i className="uil uil-calender-alt"></i>
-                            2021 - Present
+                            10th June 2024 - 20th July 2024
                         </div>
                         <div>
                         <span className="qualification__rounder">
                         </span>
                         <span className="qualification__line">
-
                         </span>
                     </div>
                     </div>
 
                     <div className="qualification__data">
                         <div>
+                        <h3 className="qualification__title">Web Developer and Designer Intern
+                        </h3>
+                        <span className="qualification__subtitle">Vallem Softech Solutions Pvt . Ltd</span>
+                        <div className="qualification__calender">
+                            <i className="uil uil-calender-alt"></i>
+                            1st June 2024– 1st July 2024
+                        </div>
                         <div>
                         <span className="qualification__rounder">
                         </span>
@@ -122,16 +126,38 @@ const Qualification = () => {
                         </span>
                     </div>
                         </div>
+                        
+                     
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
+                        <h3 className="qualification__title">Full Stack Developer Intern </h3>
+                        <span className="qualification__subtitle">Dr Pallamsetti Innovations.pvt.ltd</span>
+                        <div className="qualification__calender">
+                            <i className="uil uil-calender-alt"></i>
+                            Jan 2024 - April 2024
+                        </div>
+                        <div>
+                        <span className="qualification__rounder">
+                        </span>
+                        <span className="qualification__line">
+
+                        </span>
+                    </div>
+                        </div>
+                        
+                     
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
                         <h3 className="qualification__title">JAVA Advanced DSA Programming </h3>
                         <span className="qualification__subtitle">Edureka</span>
                         <div className="qualification__calender">
                             <i className="uil uil-calender-alt"></i>
-                            2022 - 2023
+                            24TH AUG 2023 - 24TH DEC 2023
                         </div>
-                     
-                    </div>
-                    <div className="qualification__data">
-                        <div>
                         <div>
                         <span className="qualification__rounder">
                         </span>
@@ -140,12 +166,27 @@ const Qualification = () => {
                         </span>
                     </div>
                         </div>
-                        <h3 className="qualification__title">Web  </h3>
+                        
+                     
+                    </div>
+                    
+                    <div className="qualification__data">
+                        <div>
+                        <h3 className="qualification__title">Web Development Intern  </h3>
                         <span className="qualification__subtitle">Robocoupler.pvt.ltd</span>
                         <div className="qualification__calender">
                             <i className="uil uil-calender-alt"></i>
                             5th June 2022 - 5th July 2022
                         </div>
+                        <div>
+                        <span className="qualification__rounder">
+                        </span>
+                        <span className="qualification__line">
+
+                        </span>
+                    </div>
+                        </div>
+                       
                      
                     </div>
 
